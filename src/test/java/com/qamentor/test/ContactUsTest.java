@@ -25,7 +25,6 @@ public class ContactUsTest extends TestBase {
                                {"Antony", "Malkov", "test@qamentor.com", "+380632773351", "test", "Request a Quote"},
                                {"Andrew", "Simons", "test@qamentor.com", "+380632773351", "test", "Request Online Presentation"},
                                {"Ben", "Jonson", "test@qamentor.com", "+380632773351", "test", "Request for Free Proof of Concept"},
-                               {"Den", "Brown", "test@qamentor.com", "+380632773351", "test", "Request for Free Pilot Project"},
                                {"Alex", "Orlov", "test@qamentor.com", "+380632773351", "test", "Request for Free Pilot Project"},
                                {"Rick", "Hoffman", "test@qamentor.com", "+380632773351", "test", "Request for Functional Testing"},
                                {"Sarah", "Rafferty", "test@qamentor.com", "+380632773351", "test", "Request for QA Services"},
